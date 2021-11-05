@@ -23,7 +23,7 @@ li{
 }
 h1{
     font-family: 'Playfair Display', serif;
-    margin-left: 170px;
+    margin-left: 200px;
 }
 .shadow{
     box-shadow: 0 6px 6px black, 0 6px 6px black;
@@ -40,10 +40,10 @@ h1{
 }
 @media screen and (max-width: 780px) {
     #main-page{
-        width: 100%;
+        width: 62%;
     }
     h1{
-        width: 350px;
+        width: 450px;
     }
     h5{
         width: 450px;
@@ -54,8 +54,15 @@ h1{
 
   }
   img{
-      margin-left: 5px;
+      margin-left: 44px;
   }
   .date{
-    margin-left: 200px;
+    margin-left: 220px;
+  }
+  .intro{
+    margin-left: 44px;
+  }
+  h5{
+    margin-left: 44px;
+    font-size: 24px;
   }
