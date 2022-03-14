@@ -40,7 +40,7 @@ h1{
 }
 @media screen and (max-width: 780px) {
     #main-page{
-        width: 65%;
+        width: 62%;
     }
     h1{
         width: 450px;
@@ -54,15 +54,15 @@ h1{
 
   }
   img{
-      margin-left: 20px;
+      margin-left: 44px;
   }
   .date{
-    margin-left: 180px;
+    margin-left: 220px;
   }
   .intro{
-    margin-left: 20px;
+    margin-left: 44px;
   }
   h5{
-    margin-left: 20px;
+    margin-left: 44px;
     font-size: 24px;
   }
